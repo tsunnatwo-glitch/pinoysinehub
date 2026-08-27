@@ -1,0 +1,6 @@
+{
+  "name": "Pinoysinehub - Pinoy Mobile Streaming & Offline Video",
+  "description": "Netflix-style Pinoy mobile streaming web app featuring offline video downloads, Gemini AI personalized recommendations, interactive video player, and ad-supported monetization engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
